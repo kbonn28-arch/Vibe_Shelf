@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Search, Filter, BookOpen, Film, Music } from 'lucide-react'
+import { Search, BookOpen, Film, Music } from 'lucide-react'
 
 interface MediaItem {
   id: string
